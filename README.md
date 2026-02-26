@@ -18,5 +18,5 @@ An object detection system using deep learning for real-time visual recognition.
 
 ## Connect
 
-LinkedIn: [www.linkedin.com/in/saiful-islam-shihab](http://www.linkedin.com/in/saiful-islam-shihab)
-Email: [saifulshihab105@gmail.com](mailto:saifulshihab105@gmail.com)
+- LinkedIn: [www.linkedin.com/in/saiful-islam-shihab](http://www.linkedin.com/in/saiful-islam-shihab)
+- Email: [saifulshihab105@gmail.com](mailto:saifulshihab105@gmail.com)
