@@ -4,7 +4,6 @@ Artificial Intelligence major at La Trobe University with a strong focus on appl
 
 My goal is to develop production-ready ML systems that solve real-world problems and demonstrate sound engineering practices.
 
----
 
 ## Current Focus
 
@@ -14,7 +13,6 @@ My goal is to develop production-ready ML systems that solve real-world problems
 * Deployment of ML pipelines using Streamlit
 * Structured project development with Git and version control
 
----
 
 ## Featured Projects
 
@@ -30,7 +28,6 @@ Key components:
 * Residual analysis and percentile-based anomaly thresholding
 * CLI scoring pipeline and Streamlit dashboard
 
----
 
 ### Fraud Detection System
 
@@ -44,7 +41,6 @@ Key components:
 * Threshold tuning for recall-sensitive deployment
 * Packaged inference pipeline and reporting
 
----
 
 ### CIFAR-10 CNN Classifier
 
@@ -57,7 +53,6 @@ Key components:
 * Model evaluation and performance tracking
 * Application interface for image prediction
 
----
 
 ## Technical Stack
 
@@ -78,7 +73,6 @@ Deployment & Tools:
 * Git & GitHub
 * Jupyter Notebook
 
----
 
 ## Engineering Approach
 
@@ -88,13 +82,11 @@ Deployment & Tools:
 * Separation of training and inference logic
 * Performance evaluation beyond accuracy
 
----
 
 ## Currently Building
 
 Enhancing time-series forecasting systems with improved anomaly scoring logic and expanding deployment capabilities for interactive ML dashboards.
 
----
 
 ## Connect
 
