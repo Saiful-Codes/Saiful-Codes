@@ -1,15 +1,14 @@
 # Hi! I'm Saiful
 
-An Artificial Intelligence major student at La Trobe University focused on building practical, end-to-end Machine Learning systems.
+AI & Machine Learning student at La Trobe University, focused on building **real-world, end-to-end intelligent systems**.
 
-* Applied machine learning and predictive modeling
-* Time-series forecasting and anomaly detection
-* Imbalanced classification and threshold optimization
-* Deployable ML pipelines using Streamlit
-* Structured, version-controlled project development
+### What I Do
+- Build AI-powered applications (LLMs, RAG, APIs, real-time data)
+- Develop full-stack systems using FastAPI, React, and cloud tools
+- Work with machine learning, deep learning, and time-series systems
+- Design clean, reproducible pipelines from data → model → deployment
 
-I design systems from data preprocessing and feature engineering through model training, evaluation, and deployment, with emphasis on reproducibility and real-world applicability.
-
+I focus on developing real applications that combine data, machine learning, and system integration to solve real-world problems.
 
 ## Connect
 
